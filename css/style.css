@@ -12,7 +12,7 @@
 }
 
 .container-1 {
-  background-image: url("../../imgs/home/01.jpg");
+  background-image: url("../imgs/home/01.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -44,7 +44,7 @@ body {
 }
 
 .container-2 {
-  background-image: url("../../imgs/home/03.jpg");
+  background-image: url("../imgs/home/03.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -52,7 +52,7 @@ body {
 }
 
 .container-3 {
-  background-image: url("../../imgs/home/02.gif");
+  background-image: url("../imgs/home/02.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -60,7 +60,7 @@ body {
 }
 
 .container-4 {
-  background-image: url("../../imgs/home/04.jpg");
+  background-image: url("../imgs/home/04.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -113,7 +113,7 @@ footer {
 
 .container-5 {
   height: 100vh;
-  background-image: url("../../imgs/falcon9/01.jpg");
+  background-image: url("../imgs/falcon9/01.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -146,7 +146,7 @@ footer {
 
 .container-7 {
   height: 100vh;
-  background-image: url("../../imgs/falcon9/02.jpg");
+  background-image: url("../imgs/falcon9/02.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -169,7 +169,7 @@ footer {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url("../../imgs/falcon9/03.jpg");
+  background-image: url("../imgs/falcon9/03.jpg");
   height: 100vh;
 }
 
@@ -177,7 +177,7 @@ footer {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url("../../imgs/falcon9/04.jpg");
+  background-image: url("../imgs/falcon9/04.jpg");
   height: 100vh;
 }
 
@@ -185,7 +185,7 @@ footer {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url("../../imgs/falcon9/05.jpg");
+  background-image: url("../imgs/falcon9/05.jpg");
   height: 100vh;
 }
 
@@ -193,7 +193,7 @@ footer {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url("../../imgs/falcon9/06.jpg");
+  background-image: url("../imgs/falcon9/06.jpg");
   height: 100vh;
 }
 
@@ -201,7 +201,7 @@ footer {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url("../../imgs/falcon9/07.jpg");
+  background-image: url("../imgs/falcon9/07.jpg");
   height: 100vh;
 }
 
@@ -210,7 +210,7 @@ footer {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url("../../imgs/falcon9/08.jpg");
+  background-image: url("../imgs/falcon9/08.jpg");
 }
 
 .container-10 {
@@ -357,7 +357,7 @@ footer {
 }
 /*Page humanFight*/
 .container-12 {
-  background-image: url("../../imgs/humanFlight/01.jpg");
+  background-image: url("../imgs/humanFlight/01.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -384,7 +384,7 @@ footer {
 }
 
 .container-14 {
-  background-image: url("../../imgs/humanFlight/02.jpg");
+  background-image: url("../imgs/humanFlight/02.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -413,7 +413,7 @@ footer {
 
 .container-15 {
   height: 100vh;
-  background-image: url("../../imgs/humanFlight/03.jpg");
+  background-image: url("../imgs/humanFlight/03.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -439,7 +439,7 @@ footer {
 }
 
 .container-16 {
-  background-image: url("../../imgs/humanFlight/04.jpg");
+  background-image: url("../imgs/humanFlight/04.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -448,7 +448,7 @@ footer {
 
 .container-17 {
   height: 100vh;
-  background-image: url("../../imgs/humanFlight/05.jpg");
+  background-image: url("../imgs/humanFlight/05.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
